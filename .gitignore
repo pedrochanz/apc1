@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+.ccls-cache
+.replit
+replit.nix
+
 # Object files
 *.o
 *.ko
